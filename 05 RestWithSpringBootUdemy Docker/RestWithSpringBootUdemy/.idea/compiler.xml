@@ -19,6 +19,7 @@
       <module name="02 RestWithSpringBootUdemy Scaffold Calculator" options="-parameters" />
       <module name="03 RestWithSpringBootUdemy Scaffold Crud" options="-parameters" />
       <module name="04 RestWithSpringBootUdemy Versioning" options="-parameters" />
+      <module name="RestWithSpringBootUdemy" options="-parameters" />
       <module name="rest-with-springboot-udemy" options="-parameters" />
     </option>
   </component>
